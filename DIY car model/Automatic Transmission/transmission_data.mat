@@ -1,0 +1,11 @@
+FDR=3.42;           %final drive ratio
+R=0.3048;           %rolling radius of tire
+cd=0.4;             %coefficient of drag
+A=3.6019;           %frontal area
+rho=1.225;          %air density
+grade=0;            %grade
+m=2805;             %vehicle mass
+g=9.81;             
+fr=0.015;           %coeffficient of rolling resistance
+Jveh=157.06722258;  %moment of inertia vehicle
+Jei=0.02991;        %%moment of inertia engine and impeller
